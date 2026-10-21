@@ -1,0 +1,14 @@
+{
+  "name": "dmf-pob-health-demo",
+  "version": "1.5.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototipe lokal POB, DCU, dan tindak lanjut klinik Donggi Matindok",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test *.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
